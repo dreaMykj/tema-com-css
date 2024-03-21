@@ -1,0 +1,28 @@
+
+body 
+{
+    background-image: url(moon-phases-black-mac-tb51xj7slhiyemt4.jpg)
+}
+
+main#container 
+{
+    color: white;
+}
+
+h1.titulo
+{
+    color: white;
+    font-family: "crete round", serif;
+}
+
+p.frase 
+{
+    color: white;
+    font-family: "Satisfy", cursive;
+}
+
+p.autor 
+{
+    color: white;
+    text-decoration: underline;
+}
